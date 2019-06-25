@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: f050b3551db99164193e470cd3b2b470
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box046
+    100002: Box049
+    100004: Box050
+    100006: Box051
+    100008: Box052
+    100010: Box053
+    100012: Cylinder001
+    100014: Group001
+    100016: HP
+    100018: LAPTOP_00
+    100020: LAPTOP_01
+    100022: LAPTOP_02
+    100024: LAPTOP_03
+    100026: LAPTOP_04
+    100028: Object001
+    100030: //RootNode
+    100032: PROJECTOR
+    100034: Sphere001
+    100036: Sphere002
+    100038: Sphere003
+    100040: Sphere004
+    100042: Sphere005
+    100044: Sphere006
+    100046: Sphere007
+    100048: Sphere008
+    400000: Box046
+    400002: Box049
+    400004: Box050
+    400006: Box051
+    400008: Box052
+    400010: Box053
+    400012: Cylinder001
+    400014: Group001
+    400016: HP
+    400018: LAPTOP_00
+    400020: LAPTOP_01
+    400022: LAPTOP_02
+    400024: LAPTOP_03
+    400026: LAPTOP_04
+    400028: Object001
+    400030: //RootNode
+    400032: PROJECTOR
+    400034: Sphere001
+    400036: Sphere002
+    400038: Sphere003
+    400040: Sphere004
+    400042: Sphere005
+    400044: Sphere006
+    400046: Sphere007
+    400048: Sphere008
+    2100000: BLACK
+    2100002: WHITE
+    2100004: BLACK2
+    2100006: 03 - Default
+    2100008: LAPTOP_KEYBOARD
+    2100010: MONITOR
+    2100012: HANDPHONE_
+    2300000: Box046
+    2300002: Box049
+    2300004: Box050
+    2300006: Box051
+    2300008: Box052
+    2300010: Box053
+    2300012: Cylinder001
+    2300014: HP
+    2300016: LAPTOP_00
+    2300018: LAPTOP_01
+    2300020: LAPTOP_02
+    2300022: LAPTOP_03
+    2300024: LAPTOP_04
+    2300026: Object001
+    2300028: Sphere001
+    2300030: Sphere002
+    2300032: Sphere003
+    2300034: Sphere004
+    2300036: Sphere005
+    2300038: Sphere006
+    2300040: Sphere007
+    2300042: Sphere008
+    3300000: Box046
+    3300002: Box049
+    3300004: Box050
+    3300006: Box051
+    3300008: Box052
+    3300010: Box053
+    3300012: Cylinder001
+    3300014: HP
+    3300016: LAPTOP_00
+    3300018: LAPTOP_01
+    3300020: LAPTOP_02
+    3300022: LAPTOP_03
+    3300024: LAPTOP_04
+    3300026: Object001
+    3300028: Sphere001
+    3300030: Sphere002
+    3300032: Sphere003
+    3300034: Sphere004
+    3300036: Sphere005
+    3300038: Sphere006
+    3300040: Sphere007
+    3300042: Sphere008
+    4300000: Cylinder001
+    4300002: Box053
+    4300004: Sphere001
+    4300006: Sphere002
+    4300008: Sphere003
+    4300010: Sphere004
+    4300012: Sphere005
+    4300014: Sphere006
+    4300016: Sphere007
+    4300018: Sphere008
+    4300020: Box049
+    4300022: Box050
+    4300024: Box051
+    4300026: Box052
+    4300028: Object001
+    4300030: Box046
+    4300032: LAPTOP_03
+    4300034: LAPTOP_02
+    4300036: LAPTOP_04
+    4300038: LAPTOP_01
+    4300040: LAPTOP_00
+    4300042: HP
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

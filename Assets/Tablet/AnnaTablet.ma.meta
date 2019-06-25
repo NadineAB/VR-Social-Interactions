@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: b0b64a446c843be4083bcc658bdc70ab
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 45_degree_alluminium002
+    100002: 45_degree_piece002
+    100004: antenna002
+    100006: back_photo002
+    100008: body_alluminium002
+    100010: buttons002
+    100012: flash002
+    100014: front_black_glass002
+    100016: frontal_photo002
+    100018: home_button002
+    100020: jack_audio002
+    100022: keybord_pins002
+    100024: lightning002
+    100026: logo002
+    100028: mics002
+    100030: screen002
+    100032: screen_shot002
+    100034: sim002
+    100036: //RootNode
+    100038: Ipad_pro_9.7
+    100040: front_black_glass003
+    400000: 45_degree_alluminium002
+    400002: 45_degree_piece002
+    400004: antenna002
+    400006: back_photo002
+    400008: body_alluminium002
+    400010: buttons002
+    400012: flash002
+    400014: front_black_glass002
+    400016: frontal_photo002
+    400018: home_button002
+    400020: jack_audio002
+    400022: keybord_pins002
+    400024: lightning002
+    400026: logo002
+    400028: mics002
+    400030: screen002
+    400032: screen_shot002
+    400034: sim002
+    400036: //RootNode
+    400038: Ipad_pro_9.7
+    400040: front_black_glass003
+    2100000: 45_brushed_aluminum
+    2100002: lightning_material_ipad
+    2100004: antenna
+    2100006: 'Material #71'
+    2100008: black_front
+    2100010: 'Material #3158'
+    2100012: camera_lens_text
+    2100014: Glass Flint 5
+    2100016: 'Material #3124'
+    2100018: body_aluminum
+    2100020: 'Material #3374'
+    2100022: 'Material #295'
+    2100024: flash_text
+    2100026: frontal_black
+    2100028: glass_camera
+    2100030: pins
+    2100032: Logo_mirror
+    2100034: screenshot
+    2100036: screen_glass
+    2100038: lambert2
+    2300000: 45_degree_alluminium002
+    2300002: 45_degree_piece002
+    2300004: antenna002
+    2300006: back_photo002
+    2300008: body_alluminium002
+    2300010: buttons002
+    2300012: flash002
+    2300014: front_black_glass002
+    2300016: frontal_photo002
+    2300018: home_button002
+    2300020: jack_audio002
+    2300022: keybord_pins002
+    2300024: lightning002
+    2300026: logo002
+    2300028: mics002
+    2300030: screen002
+    2300032: screen_shot002
+    2300034: sim002
+    2300036: front_black_glass003
+    3300000: 45_degree_alluminium002
+    3300002: 45_degree_piece002
+    3300004: antenna002
+    3300006: back_photo002
+    3300008: body_alluminium002
+    3300010: buttons002
+    3300012: flash002
+    3300014: front_black_glass002
+    3300016: frontal_photo002
+    3300018: home_button002
+    3300020: jack_audio002
+    3300022: keybord_pins002
+    3300024: lightning002
+    3300026: logo002
+    3300028: mics002
+    3300030: screen002
+    3300032: screen_shot002
+    3300034: sim002
+    3300036: front_black_glass003
+    4300000: 45_degree_alluminium002
+    4300002: 45_degree_piece002
+    4300004: antenna002
+    4300006: back_photo002
+    4300008: body_alluminium002
+    4300010: buttons002
+    4300012: flash002
+    4300014: front_black_glass002
+    4300016: frontal_photo002
+    4300018: home_button002
+    4300020: jack_audio002
+    4300022: keybord_pins002
+    4300024: lightning002
+    4300026: logo002
+    4300028: mics002
+    4300030: screen_shot002
+    4300032: screen002
+    4300034: sim002
+    4300036: front_black_glass003
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

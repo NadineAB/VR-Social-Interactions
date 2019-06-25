@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.3denvironment_room.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\naburumman\\Documents\\VR-Social Interaction Project\\VR-Social-Interactions\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Social Interaction [Testing]"
+        }
+      }
+    }
+  ]
+}
